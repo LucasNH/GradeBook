@@ -3,11 +3,11 @@ GradeBook.java
 Created by: Lucas Noritomi-Hartwig
 Created on: May 17, 2020
 Last edited on: May 20, 2020
-The first method of this program takes an input of a linear integer array, and 
-outputs the sum of it's elements. The second method takes an input of a 2D integer 
-array and calls the first method to sum up each row of the array and outputs a 
+The first method of this program takes an input of a linear integer array, and
+outputs the sum of it's elements. The second method takes an input of a 2D integer
+array and calls the first method to sum up each row of the array and outputs a
 linear  array of the sums. The third method calls takes an input of a 2D integer
-array, calls the second method, and outputs the number of elements equal to or 
+array, calls the second method, and outputs the number of elements equal to or
 greater than 30.
  */
 package gradebook;
